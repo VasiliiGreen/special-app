@@ -1,4 +1,5 @@
 Create second file.
+<<<<<<< HEAD
 New socond line - создана для разрешения конфликтов при обновлении репозитория.
 
 Create new Line для создания сложного конфликта
